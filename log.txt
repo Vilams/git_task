@@ -1,0 +1,76 @@
+commit 4604d21937bece9e736103f9b0e487c9d173c55e
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 30 09:26:57 2021 +1000
+
+    commit-5 task-2
+
+commit folder/file-1.txt
+commit folder/file-2.txt
+commit folder/file-3.txt
+
+commit 347ee35026f8bd112b532b0f8a9d2308a4dd09b5
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 30 09:20:58 2021 +1000
+
+    commit-4 task-2
+
+.gitignore
+commit folder/First F.txt
+log/some.tmp
+
+commit 0669c10cf5acbf539a68419012a1119f42e8b383
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 30 09:13:19 2021 +1000
+
+    commit
+
+log/main.html
+
+commit 27d51ba2ebea21a3fce73b84eddb64af10b1d47a
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 30 09:12:23 2021 +1000
+
+    commit-3 task-2
+
+my_first_file.txt
+my_second_file.txt
+
+commit 8e7ebc5234784ad4701b13dbf280ff27f0638bb0
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 30 09:06:51 2021 +1000
+
+    commit 2, task 2
+
+my_first_file.txt
+
+commit 440cd44d438048b80c69c0ab904bbfd7c7b688c3
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 30 09:05:01 2021 +1000
+
+    commit-1, task-2
+
+.gitignore
+
+commit 95b4b57cb42c16c0761a840ff720889ba9110899
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 23 09:45:56 2021 +1000
+
+    third commit
+
+my_second_file.txt
+
+commit a42809e8f79890ca0be8943e86a11680413beb05
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 23 09:41:50 2021 +1000
+
+    second commit
+
+my_first_file.txt
+
+commit 34f57014ba61ee4cb34ed77b05dd3bb630bc63c7
+Author: Vladislav Khvan <khvaaan.study@gmail.com>
+Date:   Thu Sep 23 09:15:06 2021 +1000
+
+    first commit
+
+my_first_file.txt
